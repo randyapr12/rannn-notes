@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602779003391",
+    "project_id": "rannn-notes-d6250",
+    "storage_bucket": "rannn-notes-d6250.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602779003391:android:29fe8783d287e670bd9fca",
+        "android_client_info": {
+          "package_name": "com.example.rannn_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu1kjYUV1OwRh_kwSK9zhe2d384m8UXcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
